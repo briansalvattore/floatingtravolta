@@ -1,4 +1,4 @@
-# floatingtravolta
+# Floating Travolta
 
 [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/briansalvattore/floatingtravolta/blob/master/LICENSE.txt)
 
